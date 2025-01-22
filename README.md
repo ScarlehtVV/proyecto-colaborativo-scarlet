@@ -2,6 +2,7 @@
 El objetivo de esta práctica es aprender a utilizar Git y GitHub para la gestión de versiones y la colaboración en equipo en un proyecto de programación. En este caso, trabajaremos en un script de Bash,
 donde varios alumnos pueden modificar el código y cargar sus cambios al repositorio en GitHub. A través de este ejercicio, aprenderemos a usar herramientas fundamentales para el control de versiones, la 
 colaboración en equipo y el trabajo eficiente en proyectos de desarrollo de software.
+Por cierto, cuando hice la practica colaborativa con Sam pase por alto que habia una parte del Script.sh que debia hacer Sam  y la hice yo entera sola, el tambien hizo eso. Entonces para que veas que sabemos colaborar en el proyecto del otro  , ambos hemos añadido al proyecto del otro un Script nuevo llamado Script2.sh para que veas que sabemos hacerlo.
 
 Este scrip concretamente sirve como una introducción básica a Bash, con un menú interactivo que permite al usuario realizar acciones simples, como ver los archivos en un directorio,
 mostrar la fecha y hora,calcular el factorial o salir del script. 
